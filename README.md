@@ -49,9 +49,12 @@ NovaTech solutions needed a central view of pipeline health, rep performance and
         {"Aug 2025",56000},
         {"Sep 2025",59000},
         {"Oct 2025",62000},
-} 
+        {"Nov 2025",65000},
+        {"Dec 2025",70000}
+    }
+
 ## Tools Used
--Power BI (dara visualization)
+-Power BI (data visualization)
 - DAX (Measures for KPIs and Tables)
 - Microsoft Excel (data source)
 
@@ -60,8 +63,3 @@ NovaTech solutions needed a central view of pipeline health, rep performance and
 ##Author
 Kamsi Chiadi aka Kamsitheanalyst
 
-
-
-        {"Nov 2025",65000},
-        {"Dec 2025",70000}
-    }
